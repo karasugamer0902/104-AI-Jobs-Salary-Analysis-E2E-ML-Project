@@ -1,0 +1,5 @@
+Python
+Playwright (Scraping)
+Pandas
+Scikit-Learn (Random Forest, Linear Regression)
+Matplotlib / Seaborn
