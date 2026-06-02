@@ -72,12 +72,13 @@
 ---
 
 ## 安裝與執行指南
-
-*git clone <https://github.com/karasugamer0902/104-AI-Jobs-Salary-Analysis-E2E-ML-Project>
-*pip install -r requirements.txt
-*python collect_data.py
-*python preprocess_data.py
-*python train_model.py
-*uvicorn salary_predict_app:app --reload
+```bash
+git clone https://github.com/karasugamer002/104-AI-Jobs-Salary-Analysis-E2E-ML-Project
+cd 104-AI-Jobs-Salary-Analysis-E2E-ML-Project
+pip install -r requirements.txt
+python collect_data.py
+python preprocess_data.py
+python train_model.py
+uvicorn salary_predict_app:app --reload
 
 ---
