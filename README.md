@@ -80,5 +80,3 @@ python collect_data.py
 python preprocess_data.py
 python train_model.py
 uvicorn salary_predict_app:app --reload
-
----
